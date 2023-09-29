@@ -1,4 +1,10 @@
 {
+    "routes": [
+      {
+        "route": "/dwa",
+        "statusCode": 410
+      }
+    ],
     "responseOverrides": {
       "404": {
         "rewrite": "/404.html",
