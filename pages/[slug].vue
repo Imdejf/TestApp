@@ -3,11 +3,13 @@ const route = useRoute();
 
 if (route.path == "/dwa") {
   //   showError({ message: "Gone", statusCode: 410 });
-  throw createError({
-    statusCode: 410,
-    message: "Gone",
-    fatal: true,
-  });
+  navigateTo("/410", { redirectCode: 410 });
+
+  // throw createError({
+  //   statusCode: 410,
+  //   message: "Gone",
+  //   fatal: true,
+  // });
 }
 
 // showError({ message: "Page not found", statusCode: 404 });

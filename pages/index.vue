@@ -5,6 +5,10 @@ if (route.path == "/dwa") {
   showError({ message: "Gone", statusCode: 410, fatal: true });
 }
 
+const error410 = async () => {
+  return navigateTo("/410", { redirectCode: 410 });
+};
+
 const error404 = () => {
   throw createError({
     statusCode: 404,
