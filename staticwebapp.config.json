@@ -5,6 +5,9 @@
         "statusCode": 410
       }
     ],
+    "navigationFallback": {
+       "rewrite": "/index.html"
+    },
     "responseOverrides": {
       "404": {
         "rewrite": "/404.html",
