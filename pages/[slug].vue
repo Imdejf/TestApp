@@ -12,6 +12,8 @@ if (route.path == "/dwa") {
   // });
 }
 
+showError({ message: "Page not found", statusCode: 404 });
+
 // showError({ message: "Page not found", statusCode: 404 });
 
 const error404 = () => {
