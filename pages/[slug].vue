@@ -5,7 +5,7 @@ if (route.path == "/dwa") {
   showError({ message: "Gone", statusCode: 410, fatal: true });
 }
 
-showError({ message: "Page not found", statusCode: 404 });
+// showError({ message: "Page not found", statusCode: 404 });
 
 const error404 = () => {
   throw createError({
