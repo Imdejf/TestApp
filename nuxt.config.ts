@@ -1,9 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   ssr:false,
-  target: 'universal',
   nitro: {
-      preset: 'azure',
       prerender: {
           crawlLinks:true,
       },
