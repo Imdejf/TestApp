@@ -33,10 +33,10 @@ export default defineNuxtConfig({
         await siteMapGeneration();
         await saveDataToFile();
         const blogSlugs = await getBlogRoutes();
-        const postSlugs = await getPostRoutes();
+        // const postSlugs = await getPostRoutes();
         const categorySlugs = await getCategory();
-        const productSlugs = await getProduct();
-        nitroConfig.prerender.routes.push(...blogSlugs, ...postSlugs, ...categorySlugs, ...productSlugs)
+        // const productSlugs = await getProduct();
+        nitroConfig.prerender.routes.push(...blogSlugs, ...categorySlugs)
         return
     }
 },
