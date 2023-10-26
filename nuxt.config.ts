@@ -11,7 +11,6 @@ export default defineNuxtConfig({
     url: GlobalSettings[appEnv].hostURL
   },
   nitro: {
-      preset: 'azure',
       routeRules: {
         'olmag.blob.core.windows.net/olmag/**/*.webp': { headers: { 'cache-control': 's-maxage=31536000' } },
         "/public/assets/**": { headers: { 'cache-control': `public,max-age=${31536000},s-maxage=${31536000}` } },
