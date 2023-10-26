@@ -1,92 +1,844 @@
 {
   "routes": [
     {
-      "route": "/404",
-      "rewrite": "/404.html"
-    },
-    {
       "route": "/200",
       "rewrite": "/200.html"
     },
     {
-      "route": "/category/wozki-transportowe-dwukolowe",
-      "rewrite": "/category/wozki-transportowe-dwukolowe/index.html"
+      "route": "/404",
+      "rewrite": "/404.html"
     },
     {
-      "route": "/category/plastikowe-pojemniki-warsztatowe",
-      "rewrite": "/category/plastikowe-pojemniki-warsztatowe/index.html"
+      "route": "/kanister-plastikowy-25-l-est-z-nakretkna-din-51-un-uniwersalny-i-funkcjonalny",
+      "rewrite": "/kanister-plastikowy-25-l-est-z-nakretkna-din-51-un-uniwersalny-i-funkcjonalny/index.html"
     },
     {
-      "route": "/category/wozki-polkowe-i-serwisowe",
-      "rewrite": "/category/wozki-polkowe-i-serwisowe/index.html"
+      "route": "/pojemnik-plastikowy-warsztatowy-uniwersalny-i-wytrzymaly-wymiar-156x100x75-mm",
+      "rewrite": "/pojemnik-plastikowy-warsztatowy-uniwersalny-i-wytrzymaly-wymiar-156x100x75-mm/index.html"
     },
     {
-      "route": "/category/listwy-na-pojemniki-warsztatowe",
-      "rewrite": "/category/listwy-na-pojemniki-warsztatowe/index.html"
+      "route": "/podnosnik-nozycowy-elektryczny-mobilny-i-mocny-wymiar-1305x520-udzwig-500-kg",
+      "rewrite": "/podnosnik-nozycowy-elektryczny-mobilny-i-mocny-wymiar-1305x520-udzwig-500-kg/index.html"
     },
     {
-      "route": "/category/plastikowe-pojemniki-magazynowe",
-      "rewrite": "/category/plastikowe-pojemniki-magazynowe/index.html"
+      "route": "/wytrzymaly-regal-na-pojemniki-warsztatowe-jednostronny-wymiar-1610x940x380-mm-60-pojemnikow",
+      "rewrite": "/wytrzymaly-regal-na-pojemniki-warsztatowe-jednostronny-wymiar-1610x940x380-mm-60-pojemnikow/index.html"
     },
     {
-      "route": "/category/stoly-warsztatowe",
-      "rewrite": "/category/stoly-warsztatowe/index.html"
+      "route": "/wytrzymaly-regal-na-pojemniki-warsztatowe-jednostronny-wymiar-1610x940x380-mm-60-pojemnikow-mieszane",
+      "rewrite": "/wytrzymaly-regal-na-pojemniki-warsztatowe-jednostronny-wymiar-1610x940x380-mm-60-pojemnikow-mieszane/index.html"
     },
     {
-      "route": "/category/stojaki-warsztatowe",
-      "rewrite": "/category/stojaki-warsztatowe/index.html"
+      "route": "/stol-warsztatowy-laminowany-mocny-i-wytrzymaly-wymiar-800x1600x970-mm",
+      "rewrite": "/stol-warsztatowy-laminowany-mocny-i-wytrzymaly-wymiar-800x1600x970-mm/index.html"
     },
     {
-      "route": "/category/wozki-na-pojemniki-i-skrzynie",
-      "rewrite": "/category/wozki-na-pojemniki-i-skrzynie/index.html"
+      "route": "/drabina-aluminiowa-stabilna-i-solidna-7-stopniowa-wytrzymalosc-125-kg",
+      "rewrite": "/drabina-aluminiowa-stabilna-i-solidna-7-stopniowa-wytrzymalosc-125-kg/index.html"
     },
     {
-      "route": "/category/rusztowania",
-      "rewrite": "/category/rusztowania/index.html"
+      "route": "/rusztowanie-aluminiowe-drabinowe-6-szczebli-uniwersalne-i-wytrzymale-platforma-150x41-cm",
+      "rewrite": "/rusztowanie-aluminiowe-drabinowe-6-szczebli-uniwersalne-i-wytrzymale-platforma-150x41-cm/index.html"
     },
     {
-      "route": "/category/beczki-i-kanistry",
-      "rewrite": "/category/beczki-i-kanistry/index.html"
+      "route": "/listwa-na-pojemniki-warsztatowe-funkcjonalna-i-bezpieczna-wymiar-1000x170-5-pojemnikow",
+      "rewrite": "/listwa-na-pojemniki-warsztatowe-funkcjonalna-i-bezpieczna-wymiar-1000x170-5-pojemnikow/index.html"
     },
     {
-      "route": "/category/plastikowe-pojemniki-transportowe",
-      "rewrite": "/category/plastikowe-pojemniki-transportowe/index.html"
+      "route": "/drabina-aluminiowa-3-stopniowa-dwustronna-bezpieczna-oraz-kompaktowa-wytrzymalosc-125-150-kg",
+      "rewrite": "/drabina-aluminiowa-3-stopniowa-dwustronna-bezpieczna-oraz-kompaktowa-wytrzymalosc-125-150-kg/index.html"
     },
     {
-      "route": "/category/plastikowe-pojemniki-azurowe",
-      "rewrite": "/category/plastikowe-pojemniki-azurowe/index.html"
+      "route": "/szafka-bhp-pracownicza-wytrzymala-i-niezawodna-wymiar-550x700x1920-mm",
+      "rewrite": "/szafka-bhp-pracownicza-wytrzymala-i-niezawodna-wymiar-550x700x1920-mm/index.html"
     },
     {
-      "route": "/category/szafy-warsztatowe",
-      "rewrite": "/category/szafy-warsztatowe/index.html"
+      "route": "/beczka-plastikowa-30-l-kdf-z-deklem",
+      "rewrite": "/beczka-plastikowa-30-l-kdf-z-deklem/index.html"
     },
     {
-      "route": "/category/kanistry-plastikowe",
-      "rewrite": "/category/kanistry-plastikowe/index.html"
+      "route": "/listwa-na-pojemniki-warsztatowe-funkcjonalna-i-bezpieczna-wymiar-930x60-12-pojemnikow",
+      "rewrite": "/listwa-na-pojemniki-warsztatowe-funkcjonalna-i-bezpieczna-wymiar-930x60-12-pojemnikow/index.html"
     },
     {
-      "route": "/category/pojemniki-magazynowe",
-      "rewrite": "/category/pojemniki-magazynowe/index.html"
+      "route": "/listwa-na-pojemniki-warsztatowe-funkcjonalna-i-bezpieczna-wymiar-1050x130-4-pojemniki",
+      "rewrite": "/listwa-na-pojemniki-warsztatowe-funkcjonalna-i-bezpieczna-wymiar-1050x130-4-pojemniki/index.html"
     },
     {
-      "route": "/category/szafki-na-klucze",
-      "rewrite": "/category/szafki-na-klucze/index.html"
+      "route": "/pojemnik-transportowy-magazynowy-euro-wytrzymaly-i-niezawodny-wymiar-600x400x140-mm",
+      "rewrite": "/pojemnik-transportowy-magazynowy-euro-wytrzymaly-i-niezawodny-wymiar-600x400x140-mm/index.html"
     },
     {
-      "route": "/category/drabiny-aluminiowe",
-      "rewrite": "/category/drabiny-aluminiowe/index.html"
+      "route": "/regal-na-pojemniki-warsztatowe-dwustronny-uniwersalny-wymiar-1610x940x650-mm-208-pojemnikow",
+      "rewrite": "/regal-na-pojemniki-warsztatowe-dwustronny-uniwersalny-wymiar-1610x940x650-mm-208-pojemnikow/index.html"
+    },
+    {
+      "route": "/wytrzymaly-regal-na-pojemniki-warsztatowe-jednostronny-wymiar-1610x940x380-mm-32-pojemniki",
+      "rewrite": "/wytrzymaly-regal-na-pojemniki-warsztatowe-jednostronny-wymiar-1610x940x380-mm-32-pojemniki/index.html"
+    },
+    {
+      "route": "/kanister-plastikowy-5-l-est-z-nakretkna-din-51-un-uniwersalny-i-funkcjonalny",
+      "rewrite": "/kanister-plastikowy-5-l-est-z-nakretkna-din-51-un-uniwersalny-i-funkcjonalny/index.html"
+    },
+    {
+      "route": "/drabina-domowa-jednostronna-higher-7-stopni-wzmocniona-oraz-niezawodna-wytrzymalosc-125-kg",
+      "rewrite": "/drabina-domowa-jednostronna-higher-7-stopni-wzmocniona-oraz-niezawodna-wytrzymalosc-125-kg/index.html"
+    },
+    {
+      "route": "/solidny-wozek-do-pojemnikow-z-kolkami-poliamidowo-poliuretanowymi-stal-ocynkowana-wymiar-400x300-mm",
+      "rewrite": "/solidny-wozek-do-pojemnikow-z-kolkami-poliamidowo-poliuretanowymi-stal-ocynkowana-wymiar-400x300-mm/index.html"
+    },
+    {
+      "route": "/wozek-paletowy-z-waga-elektroniczna-udzwig-2000-kg",
+      "rewrite": "/wozek-paletowy-z-waga-elektroniczna-udzwig-2000-kg/index.html"
+    },
+    {
+      "route": "/kontener-samowyladowczy-z-pokrywa-wytrzymaly-i-niezawodny-wymiar-1525x1230x1295-pojemnosc-1100-l",
+      "rewrite": "/kontener-samowyladowczy-z-pokrywa-wytrzymaly-i-niezawodny-wymiar-1525x1230x1295-pojemnosc-1100-l/index.html"
+    },
+    {
+      "route": "/drabina-aluminiowa-stabilna-i-solidna-8-stopniowa-wytrzymalosc-125-kg",
+      "rewrite": "/drabina-aluminiowa-stabilna-i-solidna-8-stopniowa-wytrzymalosc-125-kg/index.html"
+    },
+    {
+      "route": "/pojemnik-magazynowy-transportowy-z-pokrywa-solidny-i-uniwersalny-wymiar-300x200x170-mm",
+      "rewrite": "/pojemnik-magazynowy-transportowy-z-pokrywa-solidny-i-uniwersalny-wymiar-300x200x170-mm/index.html"
+    },
+    {
+      "route": "/stol-warsztatowy-mocny-i-praktyczny-nosnosc-250kg-wymiar-1800x750x895-mm",
+      "rewrite": "/stol-warsztatowy-mocny-i-praktyczny-nosnosc-250kg-wymiar-1800x750x895-mm/index.html"
+    },
+    {
+      "route": "/pojemnik-warsztatowy-kuweta-warsztatowa-odkryj-jakosc-i-funkcjonalnosc-wymiar-157x101x74",
+      "rewrite": "/pojemnik-warsztatowy-kuweta-warsztatowa-odkryj-jakosc-i-funkcjonalnosc-wymiar-157x101x74/index.html"
+    },
+    {
+      "route": "/podnosnik-nozycowy-z-pompa-nozna-mobilny-i-mocny-wymiar-1170x515-udzwig-1000-kg",
+      "rewrite": "/podnosnik-nozycowy-z-pompa-nozna-mobilny-i-mocny-wymiar-1170x515-udzwig-1000-kg/index.html"
+    },
+    {
+      "route": "/regal-wiszacy-na-pojemniki-warsztatowe-praktyczny-i-funkcjonalny-wymiar-1610x940x380-mm-60-pojemnikow-mieszane-kolory",
+      "rewrite": "/regal-wiszacy-na-pojemniki-warsztatowe-praktyczny-i-funkcjonalny-wymiar-1610x940x380-mm-60-pojemnikow-mieszane-kolory/index.html"
+    },
+    {
+      "route": "/drabina-aluminiowa-trzyelementowa-11-stopni-profesjonalna-wytrzymalosc-150-kg",
+      "rewrite": "/drabina-aluminiowa-trzyelementowa-11-stopni-profesjonalna-wytrzymalosc-150-kg/index.html"
+    },
+    {
+      "route": "/pojemnik-azurowy-transportowy-praktyczny-oraz-funkcjonalny-wymiar-600x400x410",
+      "rewrite": "/pojemnik-azurowy-transportowy-praktyczny-oraz-funkcjonalny-wymiar-600x400x410/index.html"
+    },
+    {
+      "route": "/listwa-na-pojemniki-warsztatowe-funkcjonalna-i-bezpieczna-wymiar-389x110-3-pojemniki",
+      "rewrite": "/listwa-na-pojemniki-warsztatowe-funkcjonalna-i-bezpieczna-wymiar-389x110-3-pojemniki/index.html"
+    },
+    {
+      "route": "/pojemnik-transportowy-magazynowy-euro-wytrzymaly-i-niezawodny-wymiar-400x300x270-mm",
+      "rewrite": "/pojemnik-transportowy-magazynowy-euro-wytrzymaly-i-niezawodny-wymiar-400x300x270-mm/index.html"
+    },
+    {
+      "route": "/beczka-plastikowa-220-l-kdf-z-deklem",
+      "rewrite": "/beczka-plastikowa-220-l-kdf-z-deklem/index.html"
+    },
+    {
+      "route": "/regal-na-kolkach-do-pojemnikow-warsztatowych-mobilny-i-komfortowy-wymiar-1100x660x380-mm-10-pojemnikow",
+      "rewrite": "/regal-na-kolkach-do-pojemnikow-warsztatowych-mobilny-i-komfortowy-wymiar-1100x660x380-mm-10-pojemnikow/index.html"
+    },
+    {
+      "route": "/beczka-plastikowa-60-l-kdf-z-deklem",
+      "rewrite": "/beczka-plastikowa-60-l-kdf-z-deklem/index.html"
+    },
+    {
+      "route": "/pojemnik-transportowy-magazynowy-euro-wytrzymaly-oraz-niezbedny-wymiar-600x400x130-mm-pelny",
+      "rewrite": "/pojemnik-transportowy-magazynowy-euro-wytrzymaly-oraz-niezbedny-wymiar-600x400x130-mm-pelny/index.html"
+    },
+    {
+      "route": "/regal-na-kolkach-do-pojemnikow-warsztatowych-mobilny-i-komfortowy-wymiar-1740x940x700-mm-10-pojemniki",
+      "rewrite": "/regal-na-kolkach-do-pojemnikow-warsztatowych-mobilny-i-komfortowy-wymiar-1740x940x700-mm-10-pojemniki/index.html"
+    },
+    {
+      "route": "/stol-nozycowy-z-korba-ze-stali-nierdzewnej-mobilny-i-wytrzymaly-wymiar-1150x600-udzwig-300",
+      "rewrite": "/stol-nozycowy-z-korba-ze-stali-nierdzewnej-mobilny-i-wytrzymaly-wymiar-1150x600-udzwig-300/index.html"
+    },
+    {
+      "route": "/drabina-aluminiowa-trzyelementowa-7-stopni-profesjonalna-wytrzymalosc-150-kg",
+      "rewrite": "/drabina-aluminiowa-trzyelementowa-7-stopni-profesjonalna-wytrzymalosc-150-kg/index.html"
+    },
+    {
+      "route": "/pojemnik-warsztatowy-kuweta-warsztatowa-odkryj-jakosc-i-funkcjonalnosc-wymiar-140x203x74",
+      "rewrite": "/pojemnik-warsztatowy-kuweta-warsztatowa-odkryj-jakosc-i-funkcjonalnosc-wymiar-140x203x74/index.html"
+    },
+    {
+      "route": "/drabina-domowa-jednostronna-higher-4-stopnie-wzmocniona-oraz-niezawodna-wytrzymalosc-125-kg",
+      "rewrite": "/drabina-domowa-jednostronna-higher-4-stopnie-wzmocniona-oraz-niezawodna-wytrzymalosc-125-kg/index.html"
+    },
+    {
+      "route": "/pojemnik-magazynowy-transportowy-wytrzymaly-wymiar-300x200x170-mm",
+      "rewrite": "/pojemnik-magazynowy-transportowy-wytrzymaly-wymiar-300x200x170-mm/index.html"
+    },
+    {
+      "route": "/drabina-domowa-stalowa-dwustronna-3-stopnie-wzmocniona-i-niezawodna",
+      "rewrite": "/drabina-domowa-stalowa-dwustronna-3-stopnie-wzmocniona-i-niezawodna/index.html"
+    },
+    {
+      "route": "/szafka-na-klucze-kbx-100-metalowa-100-haczykow-wytrzymala-oraz-funkcjonalna",
+      "rewrite": "/szafka-na-klucze-kbx-100-metalowa-100-haczykow-wytrzymala-oraz-funkcjonalna/index.html"
+    },
+    {
+      "route": "/drabina-aluminiowa-skladana-3-czesciowa-3x7-mocna-i-lekka-wytrzymalosc-150-kg",
+      "rewrite": "/drabina-aluminiowa-skladana-3-czesciowa-3x7-mocna-i-lekka-wytrzymalosc-150-kg/index.html"
+    },
+    {
+      "route": "/pojemnik-magazynowy-transportowy-wytrzymaly-wymiar-300x200x120-mm",
+      "rewrite": "/pojemnik-magazynowy-transportowy-wytrzymaly-wymiar-300x200x120-mm/index.html"
+    },
+    {
+      "route": "/listwa-na-pojemniki-warsztatowe-funkcjonalna-i-bezpieczna-wymiar-434x92-4-pojemniki",
+      "rewrite": "/listwa-na-pojemniki-warsztatowe-funkcjonalna-i-bezpieczna-wymiar-434x92-4-pojemniki/index.html"
+    },
+    {
+      "route": "/stol-nozycowy-z-korba-mobilny-i-wytrzymaly-wymiar-1300x750-udzwig-300",
+      "rewrite": "/stol-nozycowy-z-korba-mobilny-i-wytrzymaly-wymiar-1300x750-udzwig-300/index.html"
+    },
+    {
+      "route": "/regal-na-kolkach-do-pojemnikow-warsztatowych-mobilny-i-komfortowy-wymiar-1300x690x670-mm-64-pojemniki",
+      "rewrite": "/regal-na-kolkach-do-pojemnikow-warsztatowych-mobilny-i-komfortowy-wymiar-1300x690x670-mm-64-pojemniki/index.html"
+    },
+    {
+      "route": "/kontener-samowyladowczy-z-pokrywa-wytrzymaly-i-niezawodny-wymiar-1700x1230x1545-pojemnosc-1300-l",
+      "rewrite": "/kontener-samowyladowczy-z-pokrywa-wytrzymaly-i-niezawodny-wymiar-1700x1230x1545-pojemnosc-1300-l/index.html"
+    },
+    {
+      "route": "/beczka-plastikowa-120-l-kdf-z-deklem",
+      "rewrite": "/beczka-plastikowa-120-l-kdf-z-deklem/index.html"
+    },
+    {
+      "route": "/regal-na-pojemniki-warsztatowe-dwustronny-uniwersalny-wymiar-1200x690x670-mm",
+      "rewrite": "/regal-na-pojemniki-warsztatowe-dwustronny-uniwersalny-wymiar-1200x690x670-mm/index.html"
+    },
+    {
+      "route": "/pojemnik-transportowy-magazynowy-euro-solidny-i-ekologiczny-wymiar-600x400x200-mm",
+      "rewrite": "/pojemnik-transportowy-magazynowy-euro-solidny-i-ekologiczny-wymiar-600x400x200-mm/index.html"
+    },
+    {
+      "route": "/szafka-na-klucze-kbx-60-metalowa-60-haczykow-wytrzymala-oraz-funkcjonalna",
+      "rewrite": "/szafka-na-klucze-kbx-60-metalowa-60-haczykow-wytrzymala-oraz-funkcjonalna/index.html"
+    },
+    {
+      "route": "/pojemnik-warsztatowy-kuweta-warsztatowa-odkryj-jakosc-i-funkcjonalnosc-wymiar-224x144x108",
+      "rewrite": "/pojemnik-warsztatowy-kuweta-warsztatowa-odkryj-jakosc-i-funkcjonalnosc-wymiar-224x144x108/index.html"
+    },
+    {
+      "route": "/wozek-paletowy-reczny-paleciak-stal-nierdzewna-wytrzymaly-i-solidny-udzwig-2500-kg",
+      "rewrite": "/wozek-paletowy-reczny-paleciak-stal-nierdzewna-wytrzymaly-i-solidny-udzwig-2500-kg/index.html"
+    },
+    {
+      "route": "/drabina-aluminiowa-stabilna-i-solidna-5-stopniowa-wytrzymalosc-125-150-kg",
+      "rewrite": "/drabina-aluminiowa-stabilna-i-solidna-5-stopniowa-wytrzymalosc-125-150-kg/index.html"
+    },
+    {
+      "route": "/stol-warsztatowy-elektryczny-praktyczny-oraz-niezawodny-wymiar-800x2000x1290-mm",
+      "rewrite": "/stol-warsztatowy-elektryczny-praktyczny-oraz-niezawodny-wymiar-800x2000x1290-mm/index.html"
+    },
+    {
+      "route": "/regal-wiszacy-na-pojemniki-warsztatowe-praktyczny-i-funkcjonalny-wymiar-1610x940x380-mm-32-pojemnikow",
+      "rewrite": "/regal-wiszacy-na-pojemniki-warsztatowe-praktyczny-i-funkcjonalny-wymiar-1610x940x380-mm-32-pojemnikow/index.html"
+    },
+    {
+      "route": "/drabina-aluminiowa-8-stopniowa-dwustronna-wytrzymala-wytrzymalosc-125-150-kg",
+      "rewrite": "/drabina-aluminiowa-8-stopniowa-dwustronna-wytrzymala-wytrzymalosc-125-150-kg/index.html"
+    },
+    {
+      "route": "/szafka-ubraniowa-metalowa-praktyczna-i-solidna-wymiar-550x800x1920-mm",
+      "rewrite": "/szafka-ubraniowa-metalowa-praktyczna-i-solidna-wymiar-550x800x1920-mm/index.html"
+    },
+    {
+      "route": "/pojemnik-plastikowy-warsztatowy-uniwersalny-i-wytrzymaly-wymiar-118x78x56-mm",
+      "rewrite": "/pojemnik-plastikowy-warsztatowy-uniwersalny-i-wytrzymaly-wymiar-118x78x56-mm/index.html"
+    },
+    {
+      "route": "/szafka-na-klucze-kbx-30-metalowa-30-haczykow-wytrzymala-oraz-funkcjonalna",
+      "rewrite": "/szafka-na-klucze-kbx-30-metalowa-30-haczykow-wytrzymala-oraz-funkcjonalna/index.html"
+    },
+    {
+      "route": "/wozek-transportowy-skladany-dwukolowy-solidny-stal-nierdzewna-wymiar-490x1130-mm",
+      "rewrite": "/wozek-transportowy-skladany-dwukolowy-solidny-stal-nierdzewna-wymiar-490x1130-mm/index.html"
+    },
+    {
+      "route": "/drabina-aluminiowa-skladana-3-czesciowa-3x7-niezawodna-oraz-wytrzymala-wytrzymalosc-150-kg",
+      "rewrite": "/drabina-aluminiowa-skladana-3-czesciowa-3x7-niezawodna-oraz-wytrzymala-wytrzymalosc-150-kg/index.html"
+    },
+    {
+      "route": "/wytrzymaly-regal-na-pojemniki-warsztatowe-jednostronny-wymiar-1040x940x380-mm",
+      "rewrite": "/wytrzymaly-regal-na-pojemniki-warsztatowe-jednostronny-wymiar-1040x940x380-mm/index.html"
+    },
+    {
+      "route": "/pojemnik-warsztatowy-kuweta-warsztatowa-odkryj-jakosc-i-funkcjonalnosc-wymiar-314x202x148",
+      "rewrite": "/pojemnik-warsztatowy-kuweta-warsztatowa-odkryj-jakosc-i-funkcjonalnosc-wymiar-314x202x148/index.html"
+    },
+    {
+      "route": "/wytrzymaly-kontener-samowyladowczy-wywrotny-koleba-wymiar-1700x1215x1045-mm-pojemnosc-1030-l",
+      "rewrite": "/wytrzymaly-kontener-samowyladowczy-wywrotny-koleba-wymiar-1700x1215x1045-mm-pojemnosc-1030-l/index.html"
+    },
+    {
+      "route": "/pojemnik-transportowy-magazynowy-euro-wytrzymaly-i-niezawodny-wymiar-400x300x120-mm",
+      "rewrite": "/pojemnik-transportowy-magazynowy-euro-wytrzymaly-i-niezawodny-wymiar-400x300x120-mm/index.html"
+    },
+    {
+      "route": "/listwa-na-pojemniki-warsztatowe-funkcjonalna-i-bezpieczna-wymiar-910x80-9-pojemnikow",
+      "rewrite": "/listwa-na-pojemniki-warsztatowe-funkcjonalna-i-bezpieczna-wymiar-910x80-9-pojemnikow/index.html"
+    },
+    {
+      "route": "/drabina-domowa-jednostronna-higher-6-stopni-wzmocniona-oraz-niezawodna-wytrzymalosc-125-kg",
+      "rewrite": "/drabina-domowa-jednostronna-higher-6-stopni-wzmocniona-oraz-niezawodna-wytrzymalosc-125-kg/index.html"
+    },
+    {
+      "route": "/regal-wiszacy-na-pojemniki-warsztatowe-praktyczny-i-funkcjonalny-wymiar-1610x940x380-mm-104-pojemniki",
+      "rewrite": "/regal-wiszacy-na-pojemniki-warsztatowe-praktyczny-i-funkcjonalny-wymiar-1610x940x380-mm-104-pojemniki/index.html"
+    },
+    {
+      "route": "/szafka-warsztatowa-magazynowa-stabilna-i-wytrzymala-wymiar-1800x900x400-mm",
+      "rewrite": "/szafka-warsztatowa-magazynowa-stabilna-i-wytrzymala-wymiar-1800x900x400-mm/index.html"
+    },
+    {
+      "route": "/pojemnik-azurowy-transportowy-praktyczny-oraz-funkcjonalny-wymiar-600x400x110",
+      "rewrite": "/pojemnik-azurowy-transportowy-praktyczny-oraz-funkcjonalny-wymiar-600x400x110/index.html"
+    },
+    {
+      "route": "/szafa-na-chemikalia-bezpieczna-i-praktyczna-wymiar-1950x920x420-mm",
+      "rewrite": "/szafa-na-chemikalia-bezpieczna-i-praktyczna-wymiar-1950x920x420-mm/index.html"
+    },
+    {
+      "route": "/stol-warsztatowy-mocny-i-praktyczny-nosnosc-250kg-wymiar-1200x750x895-mm",
+      "rewrite": "/stol-warsztatowy-mocny-i-praktyczny-nosnosc-250kg-wymiar-1200x750x895-mm/index.html"
+    },
+    {
+      "route": "/drabina-aluminiowa-skladana-3-czesciowa-3x6-niezawodna-oraz-wytrzymala-wytrzymalosc-150-kg",
+      "rewrite": "/drabina-aluminiowa-skladana-3-czesciowa-3x6-niezawodna-oraz-wytrzymala-wytrzymalosc-150-kg/index.html"
+    },
+    {
+      "route": "/podnosnik-nozycowy-z-pompa-nozna-mobilny-i-mocny-wymiar-925x500-udzwig-500-kg",
+      "rewrite": "/podnosnik-nozycowy-z-pompa-nozna-mobilny-i-mocny-wymiar-925x500-udzwig-500-kg/index.html"
+    },
+    {
+      "route": "/drabina-aluminiowa-trzyelementowa-10-stopni-profesjonalna-wytrzymalosc-150-kg",
+      "rewrite": "/drabina-aluminiowa-trzyelementowa-10-stopni-profesjonalna-wytrzymalosc-150-kg/index.html"
+    },
+    {
+      "route": "/wytrzymaly-kontener-samowyladowczy-wywrotny-koleba-wymiar-2073x1066x1248-mm-pojemnosc-1340-l",
+      "rewrite": "/wytrzymaly-kontener-samowyladowczy-wywrotny-koleba-wymiar-2073x1066x1248-mm-pojemnosc-1340-l/index.html"
+    },
+    {
+      "route": "/listwa-na-pojemniki-warsztatowe-funkcjonalna-i-bezpieczna-wymiar-700x80-7-pojemnikow",
+      "rewrite": "/listwa-na-pojemniki-warsztatowe-funkcjonalna-i-bezpieczna-wymiar-700x80-7-pojemnikow/index.html"
+    },
+    {
+      "route": "/regal-na-kolkach-do-pojemnikow-warsztatowych-mobilny-i-komfortowy-wymiar-1740x940x700-mm-120-pojemnikow",
+      "rewrite": "/regal-na-kolkach-do-pojemnikow-warsztatowych-mobilny-i-komfortowy-wymiar-1740x940x700-mm-120-pojemnikow/index.html"
+    },
+    {
+      "route": "/wytrzymaly-regal-na-pojemniki-warsztatowe-jednostronny-wymiar-1610x940x380-mm-104-pojemnikow",
+      "rewrite": "/wytrzymaly-regal-na-pojemniki-warsztatowe-jednostronny-wymiar-1610x940x380-mm-104-pojemnikow/index.html"
+    },
+    {
+      "route": "/pojemnik-transportowy-magazynowy-euro-wytrzymaly-i-niezawodny-wymiar-400x300x320-mm",
+      "rewrite": "/pojemnik-transportowy-magazynowy-euro-wytrzymaly-i-niezawodny-wymiar-400x300x320-mm/index.html"
+    },
+    {
+      "route": "/wytrzymaly-regal-na-pojemniki-warsztatowe-jednostronny-wymiar-540x690x270-mm",
+      "rewrite": "/wytrzymaly-regal-na-pojemniki-warsztatowe-jednostronny-wymiar-540x690x270-mm/index.html"
+    },
+    {
+      "route": "/pojemnik-transportowy-magazynowy-euro-wytrzymaly-i-niezawodny-wymiar-600x400x240-mm",
+      "rewrite": "/pojemnik-transportowy-magazynowy-euro-wytrzymaly-i-niezawodny-wymiar-600x400x240-mm/index.html"
+    },
+    {
+      "route": "/pojemnik-azurowy-transportowy-praktyczny-oraz-funkcjonalny-wymiar-600x400x300",
+      "rewrite": "/pojemnik-azurowy-transportowy-praktyczny-oraz-funkcjonalny-wymiar-600x400x300/index.html"
+    },
+    {
+      "route": "/listwa-na-pojemniki-warsztatowe-funkcjonalna-i-bezpieczna-wymiar-1050x130-7-pojemnikow",
+      "rewrite": "/listwa-na-pojemniki-warsztatowe-funkcjonalna-i-bezpieczna-wymiar-1050x130-7-pojemnikow/index.html"
+    },
+    {
+      "route": "/drabina-aluminiowa-6-stopniowa-dwustronna-wytrzymala-wytrzymalosc-125-150-kg",
+      "rewrite": "/drabina-aluminiowa-6-stopniowa-dwustronna-wytrzymala-wytrzymalosc-125-150-kg/index.html"
+    },
+    {
+      "route": "/wozek-transportowy-skladany-dwukolowy-solidny-wymiar-490x685-mm",
+      "rewrite": "/wozek-transportowy-skladany-dwukolowy-solidny-wymiar-490x685-mm/index.html"
+    },
+    {
+      "route": "/wytrzymaly-regal-na-pojemniki-warsztatowe-jednostronny-wymiar-610x690x270-mm",
+      "rewrite": "/wytrzymaly-regal-na-pojemniki-warsztatowe-jednostronny-wymiar-610x690x270-mm/index.html"
+    },
+    {
+      "route": "/drabina-domowa-jednostronna-higher-3-stopnie-wzmocniona-oraz-niezawodna-wytrzymalosc-125-kg",
+      "rewrite": "/drabina-domowa-jednostronna-higher-3-stopnie-wzmocniona-oraz-niezawodna-wytrzymalosc-125-kg/index.html"
+    },
+    {
+      "route": "/pojemnik-magazynowy-transportowy-wytrzymaly-wymiar-200x150x120-mm",
+      "rewrite": "/pojemnik-magazynowy-transportowy-wytrzymaly-wymiar-200x150x120-mm/index.html"
+    },
+    {
+      "route": "/regal-na-kolkach-do-pojemnikow-warsztatowych-mobilny-i-komfortowy-wymiar-1740x940x700-mm-92-pojemniki",
+      "rewrite": "/regal-na-kolkach-do-pojemnikow-warsztatowych-mobilny-i-komfortowy-wymiar-1740x940x700-mm-92-pojemniki/index.html"
+    },
+    {
+      "route": "/pojemnik-magazynowy-transportowy-wytrzymaly-wymiar-300x200x220-mm",
+      "rewrite": "/pojemnik-magazynowy-transportowy-wytrzymaly-wymiar-300x200x220-mm/index.html"
+    },
+    {
+      "route": "/pojemnik-transportowy-magazynowy-euro-wytrzymaly-i-niezawodny-wymiar-400x300x220-mm",
+      "rewrite": "/pojemnik-transportowy-magazynowy-euro-wytrzymaly-i-niezawodny-wymiar-400x300x220-mm/index.html"
+    },
+    {
+      "route": "/wytrzymaly-kontener-samowyladowczy-wywrotny-koleba-wymiar-1525x1215x870-mm-pojemnosc-765-l",
+      "rewrite": "/wytrzymaly-kontener-samowyladowczy-wywrotny-koleba-wymiar-1525x1215x870-mm-pojemnosc-765-l/index.html"
+    },
+    {
+      "route": "/pojemnik-magazynowy-transportowy-z-pokrywa-solidny-i-poreczny-wymiar-300x200x70-mm",
+      "rewrite": "/pojemnik-magazynowy-transportowy-z-pokrywa-solidny-i-poreczny-wymiar-300x200x70-mm/index.html"
+    },
+    {
+      "route": "/pojemnik-transportowy-magazynowy-euro-wytrzymaly-oraz-niezbedny-wymiar-600x400x200-mm",
+      "rewrite": "/pojemnik-transportowy-magazynowy-euro-wytrzymaly-oraz-niezbedny-wymiar-600x400x200-mm/index.html"
+    },
+    {
+      "route": "/pojemnik-transportowy-magazynowy-euro-wytrzymaly-oraz-niezbedny-wymiar-600x400x130-mm-perforowany",
+      "rewrite": "/pojemnik-transportowy-magazynowy-euro-wytrzymaly-oraz-niezbedny-wymiar-600x400x130-mm-perforowany/index.html"
+    },
+    {
+      "route": "/wytrzymaly-regal-na-pojemniki-warsztatowe-jednostronny-wymiar-1610x940x380-mm-46-pojemnikow",
+      "rewrite": "/wytrzymaly-regal-na-pojemniki-warsztatowe-jednostronny-wymiar-1610x940x380-mm-46-pojemnikow/index.html"
+    },
+    {
+      "route": "/wozek-magazynowy-polkowy-wytrzymaly-i-niezawodny-wymiar-1500x1000x500-mm",
+      "rewrite": "/wozek-magazynowy-polkowy-wytrzymaly-i-niezawodny-wymiar-1500x1000x500-mm/index.html"
+    },
+    {
+      "route": "/drabina-domowa-stalowa-dwustronna-4-stopnie-wzmocniona-i-niezawodna-wytrzymalosc-125-kg",
+      "rewrite": "/drabina-domowa-stalowa-dwustronna-4-stopnie-wzmocniona-i-niezawodna-wytrzymalosc-125-kg/index.html"
+    },
+    {
+      "route": "/szafka-skrytkowa-metalowa-funkcjonalna-oraz-niezawodna-wymiar-550x350x1920-mm",
+      "rewrite": "/szafka-skrytkowa-metalowa-funkcjonalna-oraz-niezawodna-wymiar-550x350x1920-mm/index.html"
+    },
+    {
+      "route": "/pojemnik-transportowy-magazynowy-euro-uniwersalny-i-estetyczny-wymiar-600x400x410-mm",
+      "rewrite": "/pojemnik-transportowy-magazynowy-euro-uniwersalny-i-estetyczny-wymiar-600x400x410-mm/index.html"
+    },
+    {
+      "route": "/pojemnik-transportowy-magazynowy-euro-solidny-i-ekologiczny-wymiar-600x400x410-mm",
+      "rewrite": "/pojemnik-transportowy-magazynowy-euro-solidny-i-ekologiczny-wymiar-600x400x410-mm/index.html"
+    },
+    {
+      "route": "/pojemnik-azurowy-transportowy-praktyczny-oraz-funkcjonalny-wymiar-600x400x200",
+      "rewrite": "/pojemnik-azurowy-transportowy-praktyczny-oraz-funkcjonalny-wymiar-600x400x200/index.html"
+    },
+    {
+      "route": "/regal-na-kolkach-do-pojemnikow-warsztatowych-mobilny-i-komfortowy-wymiar-1100x490x380-mm-5-pojemnikow",
+      "rewrite": "/regal-na-kolkach-do-pojemnikow-warsztatowych-mobilny-i-komfortowy-wymiar-1100x490x380-mm-5-pojemnikow/index.html"
+    },
+    {
+      "route": "/pojemnik-transportowy-magazynowy-euro-wytrzymaly-i-niezawodny-wymiar-600x400x300-mm",
+      "rewrite": "/pojemnik-transportowy-magazynowy-euro-wytrzymaly-i-niezawodny-wymiar-600x400x300-mm/index.html"
+    },
+    {
+      "route": "/wytrzymaly-kontener-samowyladowczy-wywrotny-koleba-wymiar-1525x865x870-mm-pojemnosc-520-l",
+      "rewrite": "/wytrzymaly-kontener-samowyladowczy-wywrotny-koleba-wymiar-1525x865x870-mm-pojemnosc-520-l/index.html"
+    },
+    {
+      "route": "/regal-wiszacy-na-pojemniki-warsztatowe-praktyczny-i-funkcjonalny-wymiar-540x690x270-mm-24-pojemniki",
+      "rewrite": "/regal-wiszacy-na-pojemniki-warsztatowe-praktyczny-i-funkcjonalny-wymiar-540x690x270-mm-24-pojemniki/index.html"
+    },
+    {
+      "route": "/pojemnik-warsztatowy-kuweta-warsztatowa-odkryj-jakosc-i-funkcjonalnosc-wymiar-119x77x56",
+      "rewrite": "/pojemnik-warsztatowy-kuweta-warsztatowa-odkryj-jakosc-i-funkcjonalnosc-wymiar-119x77x56/index.html"
+    },
+    {
+      "route": "/drabina-aluminiowa-4-stopniowa-dwustronna-wytrzymala-wytrzymalosc-125-150-kg",
+      "rewrite": "/drabina-aluminiowa-4-stopniowa-dwustronna-wytrzymala-wytrzymalosc-125-150-kg/index.html"
+    },
+    {
+      "route": "/drabina-aluminiowa-trzyelementowa-9-stopni-profesjonalna-wytrzymalosc-150-kg",
+      "rewrite": "/drabina-aluminiowa-trzyelementowa-9-stopni-profesjonalna-wytrzymalosc-150-kg/index.html"
+    },
+    {
+      "route": "/kontener-samowyladowczy-z-pokrywa-wytrzymaly-i-niezawodny-wymiar-1525x880x1295-pojemnosc-750-l",
+      "rewrite": "/kontener-samowyladowczy-z-pokrywa-wytrzymaly-i-niezawodny-wymiar-1525x880x1295-pojemnosc-750-l/index.html"
+    },
+    {
+      "route": "/pojemnik-plastikowy-warsztatowy-uniwersalny-i-wytrzymaly-wymiar-441x290x213-mm",
+      "rewrite": "/pojemnik-plastikowy-warsztatowy-uniwersalny-i-wytrzymaly-wymiar-441x290x213-mm/index.html"
+    },
+    {
+      "route": "/drabina-aluminiowa-skladana-3-czesciowa-3x6-mocna-i-lekka-wytrzymalosc-150-kg",
+      "rewrite": "/drabina-aluminiowa-skladana-3-czesciowa-3x6-mocna-i-lekka-wytrzymalosc-150-kg/index.html"
+    },
+    {
+      "route": "/podnosnik-nozycowy-stol-silnik-hydrauliczny-wytrzymaly-oraz-uniwersalny-wymiar-820x2500-udzwig-2000-kg",
+      "rewrite": "/podnosnik-nozycowy-stol-silnik-hydrauliczny-wytrzymaly-oraz-uniwersalny-wymiar-820x2500-udzwig-2000-kg/index.html"
+    },
+    {
+      "route": "/regal-wiszacy-na-pojemniki-warsztatowe-praktyczny-i-funkcjonalny-wymiar-610x690x270-mm-20-pojemnikow",
+      "rewrite": "/regal-wiszacy-na-pojemniki-warsztatowe-praktyczny-i-funkcjonalny-wymiar-610x690x270-mm-20-pojemnikow/index.html"
+    },
+    {
+      "route": "/regal-magazynowy-metalowy-4-polki-wytrzymaly-i-solidny-wymiar-2000x1350x600-mm",
+      "rewrite": "/regal-magazynowy-metalowy-4-polki-wytrzymaly-i-solidny-wymiar-2000x1350x600-mm/index.html"
+    },
+    {
+      "route": "/pojemnik-azurowy-transportowy-praktyczny-oraz-funkcjonalny-wymiar-600x400x140-mm",
+      "rewrite": "/pojemnik-azurowy-transportowy-praktyczny-oraz-funkcjonalny-wymiar-600x400x140-mm/index.html"
+    },
+    {
+      "route": "/drabina-aluminiowa-7-stopniowa-dwustronna-wytrzymala-wytrzymalosc-125-150-kg",
+      "rewrite": "/drabina-aluminiowa-7-stopniowa-dwustronna-wytrzymala-wytrzymalosc-125-150-kg/index.html"
+    },
+    {
+      "route": "/regal-magazynowy-metalowy-2-polki-wytrzymaly-i-solidny-wymiar-1000x1350x400-mm",
+      "rewrite": "/regal-magazynowy-metalowy-2-polki-wytrzymaly-i-solidny-wymiar-1000x1350x400-mm/index.html"
+    },
+    {
+      "route": "/pojemnik-transportowy-magazynowy-euro-wytrzymaly-i-niezawodny-wymiar-400x300x170-mm",
+      "rewrite": "/pojemnik-transportowy-magazynowy-euro-wytrzymaly-i-niezawodny-wymiar-400x300x170-mm/index.html"
+    },
+    {
+      "route": "/kanister-plastikowy-30-l-est-z-nakretkna-din-61-un-uniwersalny-i-funkcjonalny",
+      "rewrite": "/kanister-plastikowy-30-l-est-z-nakretkna-din-61-un-uniwersalny-i-funkcjonalny/index.html"
+    },
+    {
+      "route": "/wozek-transportowy-skladany-dwukolowy-solidny-wymiar-490x1130-mm",
+      "rewrite": "/wozek-transportowy-skladany-dwukolowy-solidny-wymiar-490x1130-mm/index.html"
+    },
+    {
+      "route": "/wytrzymaly-kontener-samowyladowczy-wywrotny-koleba-wymiar-2073x1066x1248-mm-pojemnosc-1700-l",
+      "rewrite": "/wytrzymaly-kontener-samowyladowczy-wywrotny-koleba-wymiar-2073x1066x1248-mm-pojemnosc-1700-l/index.html"
+    },
+    {
+      "route": "/szafka-ubraniowa-metalowa-praktyczna-i-solidna-wymiar-550x400x1920-mm",
+      "rewrite": "/szafka-ubraniowa-metalowa-praktyczna-i-solidna-wymiar-550x400x1920-mm/index.html"
+    },
+    {
+      "route": "/regal-na-pojemniki-warsztatowe-dwustronny-uniwersalny-wymiar-1610x940x650-mm-64-pojemniki",
+      "rewrite": "/regal-na-pojemniki-warsztatowe-dwustronny-uniwersalny-wymiar-1610x940x650-mm-64-pojemniki/index.html"
+    },
+    {
+      "route": "/podnosnik-nozycowy-stol-silnik-hydrauliczny-wytrzymaly-oraz-uniwersalny-wymiar-820x1300-udzwig-1000-kg",
+      "rewrite": "/podnosnik-nozycowy-stol-silnik-hydrauliczny-wytrzymaly-oraz-uniwersalny-wymiar-820x1300-udzwig-1000-kg/index.html"
+    },
+    {
+      "route": "/pojemnik-transportowy-magazynowy-euro-wytrzymaly-i-niezawodny-wymiar-400x300x70-mm",
+      "rewrite": "/pojemnik-transportowy-magazynowy-euro-wytrzymaly-i-niezawodny-wymiar-400x300x70-mm/index.html"
+    },
+    {
+      "route": "/szafka-na-klucze-kbx-200-metalowa-200-haczykow-wytrzymala-oraz-funkcjonalna",
+      "rewrite": "/szafka-na-klucze-kbx-200-metalowa-200-haczykow-wytrzymala-oraz-funkcjonalna/index.html"
+    },
+    {
+      "route": "/wytrzymaly-regal-na-pojemniki-warsztatowe-jednostronny-wymiar-1040x490x380-mm",
+      "rewrite": "/wytrzymaly-regal-na-pojemniki-warsztatowe-jednostronny-wymiar-1040x490x380-mm/index.html"
+    },
+    {
+      "route": "/regal-magazynowy-metalowy-5-polek-wytrzymaly-i-solidny-wymiar-2000x1350x400-mm",
+      "rewrite": "/regal-magazynowy-metalowy-5-polek-wytrzymaly-i-solidny-wymiar-2000x1350x400-mm/index.html"
+    },
+    {
+      "route": "/wytrzymaly-regal-na-pojemniki-warsztatowe-jednostronny-wymiar-1040x660x380-mm",
+      "rewrite": "/wytrzymaly-regal-na-pojemniki-warsztatowe-jednostronny-wymiar-1040x660x380-mm/index.html"
+    },
+    {
+      "route": "/listwa-na-pojemniki-warsztatowe-funkcjonalna-i-bezpieczna-wymiar-326x263-9-pojemnikow",
+      "rewrite": "/listwa-na-pojemniki-warsztatowe-funkcjonalna-i-bezpieczna-wymiar-326x263-9-pojemnikow/index.html"
+    },
+    {
+      "route": "/pojemnik-transportowy-magazynowy-euro-solidny-i-ekologiczny-wymiar-600x400x300-mm",
+      "rewrite": "/pojemnik-transportowy-magazynowy-euro-solidny-i-ekologiczny-wymiar-600x400x300-mm/index.html"
+    },
+    {
+      "route": "/drabina-domowa-stalowa-dwustronna-2-stopnie-wzmocniona-i-niezawodna",
+      "rewrite": "/drabina-domowa-stalowa-dwustronna-2-stopnie-wzmocniona-i-niezawodna/index.html"
+    },
+    {
+      "route": "/podnosnik-nozycowy-z-pompa-nozna-stal-nierdzewna-mobilny-i-mocny-wymiar-925x500-udzwig-500-kg",
+      "rewrite": "/podnosnik-nozycowy-z-pompa-nozna-stal-nierdzewna-mobilny-i-mocny-wymiar-925x500-udzwig-500-kg/index.html"
+    },
+    {
+      "route": "/regal-wiszacy-na-pojemniki-warsztatowe-praktyczny-i-funkcjonalny-wymiar-1610x940x380-mm-46-pojemnikow",
+      "rewrite": "/regal-wiszacy-na-pojemniki-warsztatowe-praktyczny-i-funkcjonalny-wymiar-1610x940x380-mm-46-pojemnikow/index.html"
+    },
+    {
+      "route": "/regal-na-kolkach-do-pojemnikow-warsztatowych-mobilny-i-komfortowy-wymiar-1380x970x600-mm-15-pojemnikow",
+      "rewrite": "/regal-na-kolkach-do-pojemnikow-warsztatowych-mobilny-i-komfortowy-wymiar-1380x970x600-mm-15-pojemnikow/index.html"
+    },
+    {
+      "route": "/drabina-aluminiowa-5-stopniowa-dwustronna-wytrzymala-wytrzymalosc-125-150-kg",
+      "rewrite": "/drabina-aluminiowa-5-stopniowa-dwustronna-wytrzymala-wytrzymalosc-125-150-kg/index.html"
+    },
+    {
+      "route": "/drabina-domowa-jednostronna-higher-9-stopni-wzmocniona-oraz-niezawodna-wytrzymalosc-125-kg",
+      "rewrite": "/drabina-domowa-jednostronna-higher-9-stopni-wzmocniona-oraz-niezawodna-wytrzymalosc-125-kg/index.html"
+    },
+    {
+      "route": "/wytrzymaly-kontener-samowyladowczy-wywrotny-koleba-wymiar-1235x840x750-mm-pojemnosc-320-l",
+      "rewrite": "/wytrzymaly-kontener-samowyladowczy-wywrotny-koleba-wymiar-1235x840x750-mm-pojemnosc-320-l/index.html"
+    },
+    {
+      "route": "/pojemnik-transportowy-magazynowy-euro-wytrzymaly-i-niezawodny-wymiar-600x400x110-mm",
+      "rewrite": "/pojemnik-transportowy-magazynowy-euro-wytrzymaly-i-niezawodny-wymiar-600x400x110-mm/index.html"
+    },
+    {
+      "route": "/wozek-transportowy-z-uchwytem-do-pojemnikow-wytrzymaly-wymiar-605x402x162-mm",
+      "rewrite": "/wozek-transportowy-z-uchwytem-do-pojemnikow-wytrzymaly-wymiar-605x402x162-mm/index.html"
+    },
+    {
+      "route": "/kontener-samowyladowczy-niskoburtowy-wytrzymaly-i-niezawodny-wymiar-1645x1065x525-pojemnosc-550-l",
+      "rewrite": "/kontener-samowyladowczy-niskoburtowy-wytrzymaly-i-niezawodny-wymiar-1645x1065x525-pojemnosc-550-l/index.html"
+    },
+    {
+      "route": "/pojemnik-magazynowy-wymiar-200x150x70-mm",
+      "rewrite": "/pojemnik-magazynowy-wymiar-200x150x70-mm/index.html"
+    },
+    {
+      "route": "/pojemnik-plastikowy-warsztatowy-uniwersalny-i-wytrzymaly-wymiar-225x145x110-mm",
+      "rewrite": "/pojemnik-plastikowy-warsztatowy-uniwersalny-i-wytrzymaly-wymiar-225x145x110-mm/index.html"
+    },
+    {
+      "route": "/kanister-plastikowy-20-l-est-z-nakretkna-din-51-un-uniwersalny-i-funkcjonalny",
+      "rewrite": "/kanister-plastikowy-20-l-est-z-nakretkna-din-51-un-uniwersalny-i-funkcjonalny/index.html"
+    },
+    {
+      "route": "/drabina-aluminiowa-skladana-3-czesciowa-3x9-niezawodna-oraz-wytrzymala-wytrzymalosc-150-kg",
+      "rewrite": "/drabina-aluminiowa-skladana-3-czesciowa-3x9-niezawodna-oraz-wytrzymala-wytrzymalosc-150-kg/index.html"
+    },
+    {
+      "route": "/listwa-na-pojemniki-warsztatowe-funkcjonalna-i-bezpieczna-wymiar-259x311-6-pojemnikow",
+      "rewrite": "/listwa-na-pojemniki-warsztatowe-funkcjonalna-i-bezpieczna-wymiar-259x311-6-pojemnikow/index.html"
+    },
+    {
+      "route": "/drabina-aluminiowa-2-stopniowa-dwustronna-bezpieczna-oraz-kompaktowa-wytrzymalosc-125-150-kg",
+      "rewrite": "/drabina-aluminiowa-2-stopniowa-dwustronna-bezpieczna-oraz-kompaktowa-wytrzymalosc-125-150-kg/index.html"
+    },
+    {
+      "route": "/szafka-szkolna-metalowa-estetyczna-i-mocna-wymiar-550x350x1920-mm",
+      "rewrite": "/szafka-szkolna-metalowa-estetyczna-i-mocna-wymiar-550x350x1920-mm/index.html"
+    },
+    {
+      "route": "/pojemnik-transportowy-magazynowy-azurowy-euro-uniwersalny-i-estetyczny-wymiar-600x400x300-mm",
+      "rewrite": "/pojemnik-transportowy-magazynowy-azurowy-euro-uniwersalny-i-estetyczny-wymiar-600x400x300-mm/index.html"
+    },
+    {
+      "route": "/pojemnik-transportowy-magazynowy-euro-wytrzymaly-i-niezawodny-wymiar-600x400x220-mm",
+      "rewrite": "/pojemnik-transportowy-magazynowy-euro-wytrzymaly-i-niezawodny-wymiar-600x400x220-mm/index.html"
+    },
+    {
+      "route": "/wozek-transportowy-skladany-dwukolowy-solidny-wymiar-655x1250-mm-udzwig-250-kg",
+      "rewrite": "/wozek-transportowy-skladany-dwukolowy-solidny-wymiar-655x1250-mm-udzwig-250-kg/index.html"
+    },
+    {
+      "route": "/regal-na-pojemniki-warsztatowe-dwustronny-uniwersalny-wymiar-1610x940x650-mm-92-pojemniki",
+      "rewrite": "/regal-na-pojemniki-warsztatowe-dwustronny-uniwersalny-wymiar-1610x940x650-mm-92-pojemniki/index.html"
+    },
+    {
+      "route": "/solidny-wozek-do-pojemnikow-z-kolkami-poliamidowo-poliuretanowymi-stal-ocynkowana-wymiar-600x400-mm",
+      "rewrite": "/solidny-wozek-do-pojemnikow-z-kolkami-poliamidowo-poliuretanowymi-stal-ocynkowana-wymiar-600x400-mm/index.html"
+    },
+    {
+      "route": "/rusztowanie-aluminiowe-drabinowe-7-szczebli-uniwersalne-i-wytrzymale-platforma-150x41-cm",
+      "rewrite": "/rusztowanie-aluminiowe-drabinowe-7-szczebli-uniwersalne-i-wytrzymale-platforma-150x41-cm/index.html"
+    },
+    {
+      "route": "/pojemnik-transportowy-magazynowy-euro-wytrzymaly-i-niezawodny-wymiar-600x400x170-mm",
+      "rewrite": "/pojemnik-transportowy-magazynowy-euro-wytrzymaly-i-niezawodny-wymiar-600x400x170-mm/index.html"
+    },
+    {
+      "route": "/szafka-skrytkowa-metalowa-funkcjonalna-oraz-niezawodna-wymiar-550x700x1920-mm",
+      "rewrite": "/szafka-skrytkowa-metalowa-funkcjonalna-oraz-niezawodna-wymiar-550x700x1920-mm/index.html"
+    },
+    {
+      "route": "/regal-wiszacy-na-pojemniki-warsztatowe-praktyczny-i-funkcjonalny-wymiar-1610x940x380-mm-60-pojemnikow",
+      "rewrite": "/regal-wiszacy-na-pojemniki-warsztatowe-praktyczny-i-funkcjonalny-wymiar-1610x940x380-mm-60-pojemnikow/index.html"
+    },
+    {
+      "route": "/wytrzymaly-kontener-samowyladowczy-wywrotny-koleba-wymiar-815x760x580-mm-pojemnosc-130-l",
+      "rewrite": "/wytrzymaly-kontener-samowyladowczy-wywrotny-koleba-wymiar-815x760x580-mm-pojemnosc-130-l/index.html"
+    },
+    {
+      "route": "/szafa-warsztatowa-magazynowa-stabilna-i-wytrzymala-wymiar-2000x1000x500-mm",
+      "rewrite": "/szafa-warsztatowa-magazynowa-stabilna-i-wytrzymala-wymiar-2000x1000x500-mm/index.html"
+    },
+    {
+      "route": "/pojemnik-transportowy-magazynowy-euro-wytrzymaly-i-niezawodny-wymiar-600x400x410-mm",
+      "rewrite": "/pojemnik-transportowy-magazynowy-euro-wytrzymaly-i-niezawodny-wymiar-600x400x410-mm/index.html"
+    },
+    {
+      "route": "/regal-na-kolkach-do-pojemnikow-warsztatowych-mobilny-i-komfortowy-wymiar-1740x940x700-mm-120-pojemnikow-mieszane",
+      "rewrite": "/regal-na-kolkach-do-pojemnikow-warsztatowych-mobilny-i-komfortowy-wymiar-1740x940x700-mm-120-pojemnikow-mieszane/index.html"
+    },
+    {
+      "route": "/podnosnik-nozycowy-z-pompa-nozna-mobilny-i-mocny-wymiar-925x500-udzwig-300-kg",
+      "rewrite": "/podnosnik-nozycowy-z-pompa-nozna-mobilny-i-mocny-wymiar-925x500-udzwig-300-kg/index.html"
+    },
+    {
+      "route": "/regal-na-kolkach-do-pojemnikow-warsztatowych-mobilny-i-komfortowy-wymiar-1740x940x700-mm-208-pojemnikow",
+      "rewrite": "/regal-na-kolkach-do-pojemnikow-warsztatowych-mobilny-i-komfortowy-wymiar-1740x940x700-mm-208-pojemnikow/index.html"
+    },
+    {
+      "route": "/szafka-warsztatowa-magazynowa-stabilna-i-wytrzymala-wymiar-1000x1000x500-mm",
+      "rewrite": "/szafka-warsztatowa-magazynowa-stabilna-i-wytrzymala-wymiar-1000x1000x500-mm/index.html"
+    },
+    {
+      "route": "/kanister-plastikowy-5-l-uniwersalny-i-funkcjonalny",
+      "rewrite": "/kanister-plastikowy-5-l-uniwersalny-i-funkcjonalny/index.html"
+    },
+    {
+      "route": "/pojemnik-plastikowy-warsztatowy-uniwersalny-i-wytrzymaly-wymiar-315x200x150-mm",
+      "rewrite": "/pojemnik-plastikowy-warsztatowy-uniwersalny-i-wytrzymaly-wymiar-315x200x150-mm/index.html"
+    },
+    {
+      "route": "/drabina-aluminiowa-stabilna-i-solidna-3-stopniowa-wytrzymalosc-125-150-kg",
+      "rewrite": "/drabina-aluminiowa-stabilna-i-solidna-3-stopniowa-wytrzymalosc-125-150-kg/index.html"
+    },
+    {
+      "route": "/podnosnik-nozycowy-stol-silnik-hydrauliczny-wytrzymaly-oraz-uniwersalny-wymiar-800x1300-udzwig-1000-kg",
+      "rewrite": "/podnosnik-nozycowy-stol-silnik-hydrauliczny-wytrzymaly-oraz-uniwersalny-wymiar-800x1300-udzwig-1000-kg/index.html"
+    },
+    {
+      "route": "/szafka-bhp-pracownicza-wytrzymala-i-niezawodna-wymiar-550x350x1920-mm",
+      "rewrite": "/szafka-bhp-pracownicza-wytrzymala-i-niezawodna-wymiar-550x350x1920-mm/index.html"
+    },
+    {
+      "route": "/stol-warsztatowy-mocny-i-praktyczny-nosnosc-250kg-wymiar-1500x750x895-mm",
+      "rewrite": "/stol-warsztatowy-mocny-i-praktyczny-nosnosc-250kg-wymiar-1500x750x895-mm/index.html"
+    },
+    {
+      "route": "/regal-magazynowy-metalowy-3-polki-wytrzymaly-i-solidny-wymiar-1000x1350x600-mm",
+      "rewrite": "/regal-magazynowy-metalowy-3-polki-wytrzymaly-i-solidny-wymiar-1000x1350x600-mm/index.html"
+    },
+    {
+      "route": "/wozek-paletowy-z-waga-elektroniczna-dokladny-w-wazeniu-i-wytrzymaly-udzwig-2000-kg",
+      "rewrite": "/wozek-paletowy-z-waga-elektroniczna-dokladny-w-wazeniu-i-wytrzymaly-udzwig-2000-kg/index.html"
+    },
+    {
+      "route": "/rusztowanie-aluminiowe-drabinowe-8-szczebli-uniwersalne-i-wytrzymale-platforma-150x41-cm",
+      "rewrite": "/rusztowanie-aluminiowe-drabinowe-8-szczebli-uniwersalne-i-wytrzymale-platforma-150x41-cm/index.html"
+    },
+    {
+      "route": "/pojemnik-azurowy-transportowy-praktyczny-oraz-funkcjonalny-wymiar-600x400x240",
+      "rewrite": "/pojemnik-azurowy-transportowy-praktyczny-oraz-funkcjonalny-wymiar-600x400x240/index.html"
+    },
+    {
+      "route": "/wozek-paletowy-reczny-paleciak-hamulec-reczny-wytrzymaly-i-solidny-udzwig-3000-kg",
+      "rewrite": "/wozek-paletowy-reczny-paleciak-hamulec-reczny-wytrzymaly-i-solidny-udzwig-3000-kg/index.html"
+    },
+    {
+      "route": "/pojemnik-transportowy-magazynowy-euro-czarny-wytrzymaly-i-niezawodny-wymiar-600x400x220-mm",
+      "rewrite": "/pojemnik-transportowy-magazynowy-euro-czarny-wytrzymaly-i-niezawodny-wymiar-600x400x220-mm/index.html"
+    },
+    {
+      "route": "/drabina-aluminiowa-skladana-3-czesciowa-3x11-niezawodna-oraz-wytrzymala-wytrzymalosc-150-kg",
+      "rewrite": "/drabina-aluminiowa-skladana-3-czesciowa-3x11-niezawodna-oraz-wytrzymala-wytrzymalosc-150-kg/index.html"
+    },
+    {
+      "route": "/podnosnik-nozycowy-stol-silnik-hydrauliczny-wytrzymaly-oraz-uniwersalny-wymiar-850x2000-udzwig-1000-kg",
+      "rewrite": "/podnosnik-nozycowy-stol-silnik-hydrauliczny-wytrzymaly-oraz-uniwersalny-wymiar-850x2000-udzwig-1000-kg/index.html"
+    },
+    {
+      "route": "/regal-na-pojemniki-warsztatowe-dwustronny-uniwersalny-wymiar-1610x940x650-mm-120-pojemnikow",
+      "rewrite": "/regal-na-pojemniki-warsztatowe-dwustronny-uniwersalny-wymiar-1610x940x650-mm-120-pojemnikow/index.html"
+    },
+    {
+      "route": "/pojemnik-transportowy-magazynowy-euro-solidny-i-ekologiczny-wymiar-600x400x130-mm",
+      "rewrite": "/pojemnik-transportowy-magazynowy-euro-solidny-i-ekologiczny-wymiar-600x400x130-mm/index.html"
+    },
+    {
+      "route": "/kanister-plastikowy-10-l-est-z-nakretkna-din-51-un-uniwersalny-i-funkcjonalny",
+      "rewrite": "/kanister-plastikowy-10-l-est-z-nakretkna-din-51-un-uniwersalny-i-funkcjonalny/index.html"
+    },
+    {
+      "route": "/wozek-paletowy-reczny-paleciak-wytrzymaly-i-solidny-udzwig-2500-kg",
+      "rewrite": "/wozek-paletowy-reczny-paleciak-wytrzymaly-i-solidny-udzwig-2500-kg/index.html"
+    },
+    {
+      "route": "/drabina-domowa-stalowa-dwustronna-5-stopni-wzmocniona-i-niezawodna-wytrzymalosc-125-kg",
+      "rewrite": "/drabina-domowa-stalowa-dwustronna-5-stopni-wzmocniona-i-niezawodna-wytrzymalosc-125-kg/index.html"
+    },
+    {
+      "route": "/pojemnik-magazynowy-transportowy-z-pokrywa-lekki-i-solidny-wymiar-200x150x120-mm",
+      "rewrite": "/pojemnik-magazynowy-transportowy-z-pokrywa-lekki-i-solidny-wymiar-200x150x120-mm/index.html"
+    },
+    {
+      "route": "/pojemnik-transportowy-magazynowy-euro-uniwersalny-i-estetyczny-wymiar-600x400x300-mm",
+      "rewrite": "/pojemnik-transportowy-magazynowy-euro-uniwersalny-i-estetyczny-wymiar-600x400x300-mm/index.html"
+    },
+    {
+      "route": "/podnosnik-nozycowy-stol-silnik-hydrauliczny-wytrzymaly-oraz-uniwersalny-wymiar-800x1300-udzwig-2000-kg",
+      "rewrite": "/podnosnik-nozycowy-stol-silnik-hydrauliczny-wytrzymaly-oraz-uniwersalny-wymiar-800x1300-udzwig-2000-kg/index.html"
+    },
+    {
+      "route": "/pojemnik-transportowy-magazynowy-euro-wytrzymaly-i-niezawodny-wymiar-600x400x200-mm",
+      "rewrite": "/pojemnik-transportowy-magazynowy-euro-wytrzymaly-i-niezawodny-wymiar-600x400x200-mm/index.html"
+    },
+    {
+      "route": "/stol-warsztatowy-laminowany-mocny-i-wytrzymaly-wymiar-800x2000x970-mm",
+      "rewrite": "/stol-warsztatowy-laminowany-mocny-i-wytrzymaly-wymiar-800x2000x970-mm/index.html"
+    },
+    {
+      "route": "/drabina-aluminiowa-skladana-3-czesciowa-3x9-mocna-i-lekka-wytrzymalosc-150-kg",
+      "rewrite": "/drabina-aluminiowa-skladana-3-czesciowa-3x9-mocna-i-lekka-wytrzymalosc-150-kg/index.html"
+    },
+    {
+      "route": "/podnosnik-nozycowy-stol-silnik-hydrauliczny-wytrzymaly-oraz-uniwersalny-wymiar-800x2000-udzwig-500-kg",
+      "rewrite": "/podnosnik-nozycowy-stol-silnik-hydrauliczny-wytrzymaly-oraz-uniwersalny-wymiar-800x2000-udzwig-500-kg/index.html"
+    },
+    {
+      "route": "/szafka-szkolna-metalowa-estetyczna-i-mocna-wymiar-550x700x1920-mm",
+      "rewrite": "/szafka-szkolna-metalowa-estetyczna-i-mocna-wymiar-550x700x1920-mm/index.html"
+    },
+    {
+      "route": "/listwa-na-pojemniki-warsztatowe-funkcjonalna-i-bezpieczna-wymiar-690x60-9-pojemnikow",
+      "rewrite": "/listwa-na-pojemniki-warsztatowe-funkcjonalna-i-bezpieczna-wymiar-690x60-9-pojemnikow/index.html"
+    },
+    {
+      "route": "/listwa-na-pojemniki-warsztatowe-funkcjonalna-i-bezpieczna-wymiar-710x130-5-pojemnikow",
+      "rewrite": "/listwa-na-pojemniki-warsztatowe-funkcjonalna-i-bezpieczna-wymiar-710x130-5-pojemnikow/index.html"
+    },
+    {
+      "route": "/regal-na-pojemniki-warsztatowe-dwustronny-uniwersalny-wymiar-1610x940x650-mm-120-pojemnikow-mieszane",
+      "rewrite": "/regal-na-pojemniki-warsztatowe-dwustronny-uniwersalny-wymiar-1610x940x650-mm-120-pojemnikow-mieszane/index.html"
+    },
+    {
+      "route": "/pojemnik-transportowy-magazynowy-euro-wytrzymaly-oraz-niezbedny-wymiar-600x400x130-mm",
+      "rewrite": "/pojemnik-transportowy-magazynowy-euro-wytrzymaly-oraz-niezbedny-wymiar-600x400x130-mm/index.html"
+    },
+    {
+      "route": "/wozek-paletowy-elektryczny-praktyczny-i-solidny-udzwig-1500-kg",
+      "rewrite": "/wozek-paletowy-elektryczny-praktyczny-i-solidny-udzwig-1500-kg/index.html"
+    },
+    {
+      "route": "/drabina-aluminiowa-stabilna-i-solidna-4-stopniowa-wytrzymalosc-125-150-kg",
+      "rewrite": "/drabina-aluminiowa-stabilna-i-solidna-4-stopniowa-wytrzymalosc-125-150-kg/index.html"
+    },
+    {
+      "route": "/drabina-domowa-jednostronna-higher-5-stopni-wzmocniona-oraz-niezawodna-wytrzymalosc-125-kg",
+      "rewrite": "/drabina-domowa-jednostronna-higher-5-stopni-wzmocniona-oraz-niezawodna-wytrzymalosc-125-kg/index.html"
+    },
+    {
+      "route": "/pojemnik-magazynowy-transportowy-wytrzymaly-wymiar-300x200x70-mm",
+      "rewrite": "/pojemnik-magazynowy-transportowy-wytrzymaly-wymiar-300x200x70-mm/index.html"
+    },
+    {
+      "route": "/pojemnik-magazynowy-transportowy-z-pokrywa-solidny-i-uniwersalny-wymiar-300x200x220-mm",
+      "rewrite": "/pojemnik-magazynowy-transportowy-z-pokrywa-solidny-i-uniwersalny-wymiar-300x200x220-mm/index.html"
+    },
+    {
+      "route": "/pojemnik-warsztatowy-kuweta-warsztatowa-odkryj-jakosc-i-funkcjonalnosc-wymiar-440x285x210",
+      "rewrite": "/pojemnik-warsztatowy-kuweta-warsztatowa-odkryj-jakosc-i-funkcjonalnosc-wymiar-440x285x210/index.html"
     },
     {
       "route": "/category/wozki-paletowe",
       "rewrite": "/category/wozki-paletowe/index.html"
-    },
-    {
-      "route": "/category/drabiny-domowe",
-      "rewrite": "/category/drabiny-domowe/index.html"
-    },
-    {
-      "route": "/category/drabiny-przemyslowe",
-      "rewrite": "/category/drabiny-przemyslowe/index.html"
     },
     {
       "route": "/category/meble-warsztatowe",
@@ -97,12 +849,100 @@
       "rewrite": "/category/regaly-magazynowe-i-stojaki-warsztatowe/index.html"
     },
     {
-      "route": "/category/beczki-plastikowe",
-      "rewrite": "/category/beczki-plastikowe/index.html"
+      "route": "/category/drabiny-przemyslowe",
+      "rewrite": "/category/drabiny-przemyslowe/index.html"
+    },
+    {
+      "route": "/category/plastikowe-pojemniki-magazynowe",
+      "rewrite": "/category/plastikowe-pojemniki-magazynowe/index.html"
     },
     {
       "route": "/category/stoly-nozycowe",
       "rewrite": "/category/stoly-nozycowe/index.html"
+    },
+    {
+      "route": "/category/kanistry-plastikowe",
+      "rewrite": "/category/kanistry-plastikowe/index.html"
+    },
+    {
+      "route": "/category/plastikowe-pojemniki-azurowe",
+      "rewrite": "/category/plastikowe-pojemniki-azurowe/index.html"
+    },
+    {
+      "route": "/category/szafki-na-klucze",
+      "rewrite": "/category/szafki-na-klucze/index.html"
+    },
+    {
+      "route": "/category/wozki-transportowe-dwukolowe",
+      "rewrite": "/category/wozki-transportowe-dwukolowe/index.html"
+    },
+    {
+      "route": "/category/beczki-plastikowe",
+      "rewrite": "/category/beczki-plastikowe/index.html"
+    },
+    {
+      "route": "/category/plastikowe-pojemniki-transportowe",
+      "rewrite": "/category/plastikowe-pojemniki-transportowe/index.html"
+    },
+    {
+      "route": "/category/stoly-warsztatowe",
+      "rewrite": "/category/stoly-warsztatowe/index.html"
+    },
+    {
+      "route": "/category/stojaki-warsztatowe",
+      "rewrite": "/category/stojaki-warsztatowe/index.html"
+    },
+    {
+      "route": "/category/pojemniki-magazynowe",
+      "rewrite": "/category/pojemniki-magazynowe/index.html"
+    },
+    {
+      "route": "/category/szafki-metalowe",
+      "rewrite": "/category/szafki-metalowe/index.html"
+    },
+    {
+      "route": "/category/wozki-na-pojemniki-i-skrzynie",
+      "rewrite": "/category/wozki-na-pojemniki-i-skrzynie/index.html"
+    },
+    {
+      "route": "/category/rusztowania",
+      "rewrite": "/category/rusztowania/index.html"
+    },
+    {
+      "route": "/",
+      "rewrite": "/index.html"
+    },
+    {
+      "route": "/category/wozki-transportowe-i-magazynowe",
+      "rewrite": "/category/wozki-transportowe-i-magazynowe/index.html"
+    },
+    {
+      "route": "/category/drabiny-domowe",
+      "rewrite": "/category/drabiny-domowe/index.html"
+    },
+    {
+      "route": "/category/listwy-na-pojemniki-warsztatowe",
+      "rewrite": "/category/listwy-na-pojemniki-warsztatowe/index.html"
+    },
+    {
+      "route": "/category/wozki-polkowe-i-serwisowe",
+      "rewrite": "/category/wozki-polkowe-i-serwisowe/index.html"
+    },
+    {
+      "route": "/category/monitoring-i-systemy-alarmowe",
+      "rewrite": "/category/monitoring-i-systemy-alarmowe/index.html"
+    },
+    {
+      "route": "/category/plastikowe-pojemniki-warsztatowe",
+      "rewrite": "/category/plastikowe-pojemniki-warsztatowe/index.html"
+    },
+    {
+      "route": "/category/regaly-magazynowe",
+      "rewrite": "/category/regaly-magazynowe/index.html"
+    },
+    {
+      "route": "/category/drabiny-aluminiowe",
+      "rewrite": "/category/drabiny-aluminiowe/index.html"
     },
     {
       "route": "/category/kontenery-samowyladowcze",
@@ -113,88 +953,88 @@
       "rewrite": "/category/drabiny-i-podesty-robocze/index.html"
     },
     {
-      "route": "/category/wozki-transportowe-i-magazynowe",
-      "rewrite": "/category/wozki-transportowe-i-magazynowe/index.html"
+      "route": "/category/szafy-warsztatowe",
+      "rewrite": "/category/szafy-warsztatowe/index.html"
     },
     {
-      "route": "/category/szafki-metalowe",
-      "rewrite": "/category/szafki-metalowe/index.html"
+      "route": "/blog/magazyn",
+      "rewrite": "/blog/magazyn/index.html"
     },
     {
-      "route": "/category/monitoring-i-systemy-alarmowe",
-      "rewrite": "/category/monitoring-i-systemy-alarmowe/index.html"
-    },
-    {
-      "route": "/category/regaly-magazynowe",
-      "rewrite": "/category/regaly-magazynowe/index.html"
-    },
-    {
-      "route": "/search",
-      "rewrite": "/search/index.html"
-    },
-    {
-      "route": "/",
-      "rewrite": "/index.html"
-    },
-    {
-      "route": "/login",
-      "rewrite": "/login/index.html"
+      "route": "/category/beczki-i-kanistry",
+      "rewrite": "/category/beczki-i-kanistry/index.html"
     },
     {
       "route": "/category",
       "rewrite": "/category/index.html"
     },
     {
+      "route": "/login",
+      "rewrite": "/login/index.html"
+    },
+    {
       "route": "/blog",
       "rewrite": "/blog/index.html"
     },
     {
-      "route": "/terms-of-use",
-      "rewrite": "/terms-of-use/index.html"
+      "route": "/search",
+      "rewrite": "/search/index.html"
+    },
+    {
+      "route": "/post/jak-wyposazyc-magazyn-to-musisz-wiedziec",
+      "rewrite": "/post/jak-wyposazyc-magazyn-to-musisz-wiedziec/index.html"
     },
     {
       "route": "/register",
       "rewrite": "/register/index.html"
     },
     {
-      "route": "/warranty",
-      "rewrite": "/warranty/index.html"
-    },
-    {
       "route": "/return-products",
       "rewrite": "/return-products/index.html"
+    },
+    {
+      "route": "/terms-of-use",
+      "rewrite": "/terms-of-use/index.html"
+    },
+    {
+      "route": "/delivery",
+      "rewrite": "/delivery/index.html"
+    },
+    {
+      "route": "/warranty",
+      "rewrite": "/warranty/index.html"
     },
     {
       "route": "/privacy-policy",
       "rewrite": "/privacy-policy/index.html"
     },
     {
-      "route": "/order-processing-time",
-      "rewrite": "/order-processing-time/index.html"
-    },
-    {
-      "route": "/availability-products",
-      "rewrite": "/availability-products/index.html"
-    },
-    {
-      "route": "/about-us",
-      "rewrite": "/about-us/index.html"
-    },
-    {
       "route": "/payment",
       "rewrite": "/payment/index.html"
-    },
-    {
-      "route": "/about-cookies",
-      "rewrite": "/about-cookies/index.html"
     },
     {
       "route": "/contact",
       "rewrite": "/contact/index.html"
     },
     {
+      "route": "/order-processing-time",
+      "rewrite": "/order-processing-time/index.html"
+    },
+    {
+      "route": "/about-us",
+      "rewrite": "/about-us/index.html"
+    },
+    {
+      "route": "/availability-products",
+      "rewrite": "/availability-products/index.html"
+    },
+    {
       "route": "/checkout/summary",
       "rewrite": "/checkout/summary/index.html"
+    },
+    {
+      "route": "/about-cookies",
+      "rewrite": "/about-cookies/index.html"
     },
     {
       "route": "/checkout/cart",
