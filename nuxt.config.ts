@@ -2,8 +2,10 @@
 export default defineNuxtConfig({
   ssr:false,
   nitro: {
+      preset: 'azure',
       prerender: {
-          crawlLinks:true,
+        ignore: ["/index.html"],
+        crawlLinks:true,        
       },
   },
   hooks: {
