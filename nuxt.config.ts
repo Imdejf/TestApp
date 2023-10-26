@@ -12,10 +12,8 @@ export default defineNuxtConfig({
   },
   nitro: {
       routeRules: {
-        'olmag.blob.core.windows.net/olmag/**/*.webp': { headers: { 'cache-control': 's-maxage=31536000' } },
         "/public/assets/**": { headers: { 'cache-control': `public,max-age=${31536000},s-maxage=${31536000}` } },
         "/_nuxt/**": { headers: { 'cache-control': `public,max-age=${31536000},s-maxage=${31536000}` } },
-        'www.czater.pl/**/*': { headers: { 'cache-control': 'public,max-age=31536000,s-maxage=31536000' } },
       },
       prerender: {
           crawlLinks:true
@@ -33,9 +31,7 @@ export default defineNuxtConfig({
         await siteMapGeneration();
         await saveDataToFile();
         const blogSlugs = await getBlogRoutes();
-        // const postSlugs = await getPostRoutes();
         const categorySlugs = await getCategory();
-        // const productSlugs = await getProduct();
         nitroConfig.prerender.routes.push(...blogSlugs, ...categorySlugs)
         return
     }
