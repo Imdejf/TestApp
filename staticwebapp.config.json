@@ -9,12 +9,204 @@
       "rewrite": "/200.html"
     },
     {
+      "route": "/category/wozki-transportowe-dwukolowe",
+      "rewrite": "/category/wozki-transportowe-dwukolowe/index.html"
+    },
+    {
+      "route": "/category/plastikowe-pojemniki-warsztatowe",
+      "rewrite": "/category/plastikowe-pojemniki-warsztatowe/index.html"
+    },
+    {
+      "route": "/category/wozki-polkowe-i-serwisowe",
+      "rewrite": "/category/wozki-polkowe-i-serwisowe/index.html"
+    },
+    {
+      "route": "/category/listwy-na-pojemniki-warsztatowe",
+      "rewrite": "/category/listwy-na-pojemniki-warsztatowe/index.html"
+    },
+    {
+      "route": "/category/plastikowe-pojemniki-magazynowe",
+      "rewrite": "/category/plastikowe-pojemniki-magazynowe/index.html"
+    },
+    {
+      "route": "/category/stoly-warsztatowe",
+      "rewrite": "/category/stoly-warsztatowe/index.html"
+    },
+    {
+      "route": "/category/stojaki-warsztatowe",
+      "rewrite": "/category/stojaki-warsztatowe/index.html"
+    },
+    {
+      "route": "/category/wozki-na-pojemniki-i-skrzynie",
+      "rewrite": "/category/wozki-na-pojemniki-i-skrzynie/index.html"
+    },
+    {
+      "route": "/category/rusztowania",
+      "rewrite": "/category/rusztowania/index.html"
+    },
+    {
+      "route": "/category/beczki-i-kanistry",
+      "rewrite": "/category/beczki-i-kanistry/index.html"
+    },
+    {
+      "route": "/category/plastikowe-pojemniki-transportowe",
+      "rewrite": "/category/plastikowe-pojemniki-transportowe/index.html"
+    },
+    {
+      "route": "/category/plastikowe-pojemniki-azurowe",
+      "rewrite": "/category/plastikowe-pojemniki-azurowe/index.html"
+    },
+    {
+      "route": "/category/szafy-warsztatowe",
+      "rewrite": "/category/szafy-warsztatowe/index.html"
+    },
+    {
+      "route": "/category/kanistry-plastikowe",
+      "rewrite": "/category/kanistry-plastikowe/index.html"
+    },
+    {
+      "route": "/category/pojemniki-magazynowe",
+      "rewrite": "/category/pojemniki-magazynowe/index.html"
+    },
+    {
+      "route": "/category/szafki-na-klucze",
+      "rewrite": "/category/szafki-na-klucze/index.html"
+    },
+    {
+      "route": "/category/drabiny-aluminiowe",
+      "rewrite": "/category/drabiny-aluminiowe/index.html"
+    },
+    {
+      "route": "/category/wozki-paletowe",
+      "rewrite": "/category/wozki-paletowe/index.html"
+    },
+    {
+      "route": "/category/drabiny-domowe",
+      "rewrite": "/category/drabiny-domowe/index.html"
+    },
+    {
+      "route": "/category/drabiny-przemyslowe",
+      "rewrite": "/category/drabiny-przemyslowe/index.html"
+    },
+    {
+      "route": "/category/meble-warsztatowe",
+      "rewrite": "/category/meble-warsztatowe/index.html"
+    },
+    {
+      "route": "/category/regaly-magazynowe-i-stojaki-warsztatowe",
+      "rewrite": "/category/regaly-magazynowe-i-stojaki-warsztatowe/index.html"
+    },
+    {
+      "route": "/category/beczki-plastikowe",
+      "rewrite": "/category/beczki-plastikowe/index.html"
+    },
+    {
+      "route": "/category/stoly-nozycowe",
+      "rewrite": "/category/stoly-nozycowe/index.html"
+    },
+    {
+      "route": "/category/kontenery-samowyladowcze",
+      "rewrite": "/category/kontenery-samowyladowcze/index.html"
+    },
+    {
+      "route": "/category/drabiny-i-podesty-robocze",
+      "rewrite": "/category/drabiny-i-podesty-robocze/index.html"
+    },
+    {
+      "route": "/category/wozki-transportowe-i-magazynowe",
+      "rewrite": "/category/wozki-transportowe-i-magazynowe/index.html"
+    },
+    {
+      "route": "/category/szafki-metalowe",
+      "rewrite": "/category/szafki-metalowe/index.html"
+    },
+    {
+      "route": "/category/monitoring-i-systemy-alarmowe",
+      "rewrite": "/category/monitoring-i-systemy-alarmowe/index.html"
+    },
+    {
+      "route": "/category/regaly-magazynowe",
+      "rewrite": "/category/regaly-magazynowe/index.html"
+    },
+    {
+      "route": "/search",
+      "rewrite": "/search/index.html"
+    },
+    {
       "route": "/",
       "rewrite": "/index.html"
     },
     {
-      "route": "/410",
-      "rewrite": "/410/index.html"
+      "route": "/login",
+      "rewrite": "/login/index.html"
+    },
+    {
+      "route": "/category",
+      "rewrite": "/category/index.html"
+    },
+    {
+      "route": "/blog",
+      "rewrite": "/blog/index.html"
+    },
+    {
+      "route": "/terms-of-use",
+      "rewrite": "/terms-of-use/index.html"
+    },
+    {
+      "route": "/register",
+      "rewrite": "/register/index.html"
+    },
+    {
+      "route": "/warranty",
+      "rewrite": "/warranty/index.html"
+    },
+    {
+      "route": "/return-products",
+      "rewrite": "/return-products/index.html"
+    },
+    {
+      "route": "/privacy-policy",
+      "rewrite": "/privacy-policy/index.html"
+    },
+    {
+      "route": "/order-processing-time",
+      "rewrite": "/order-processing-time/index.html"
+    },
+    {
+      "route": "/availability-products",
+      "rewrite": "/availability-products/index.html"
+    },
+    {
+      "route": "/about-us",
+      "rewrite": "/about-us/index.html"
+    },
+    {
+      "route": "/payment",
+      "rewrite": "/payment/index.html"
+    },
+    {
+      "route": "/about-cookies",
+      "rewrite": "/about-cookies/index.html"
+    },
+    {
+      "route": "/contact",
+      "rewrite": "/contact/index.html"
+    },
+    {
+      "route": "/checkout/summary",
+      "rewrite": "/checkout/summary/index.html"
+    },
+    {
+      "route": "/checkout/cart",
+      "rewrite": "/checkout/cart/index.html"
+    },
+    {
+      "route": "/checkout/oneStep",
+      "rewrite": "/checkout/oneStep/index.html"
+    },
+    {
+      "route": "/account",
+      "rewrite": "/account/index.html"
     }
   ],
   "platform": {

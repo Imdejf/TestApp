@@ -1,0 +1,11 @@
+.consultant-name { 
+    font-weight: 600;
+    font-size: 22px !important;
+}
+
+@media only screen and (max-device-width: 480px){
+    .czater-header {
+        top: -65px !important;
+        left: 30px
+    }
+}
